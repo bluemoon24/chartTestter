@@ -9,7 +9,7 @@
   "dependencies": {
     "vue": "^2.5.17",
     "vuetify": "^1.3.0",
-    "roi-charts": "git+ssh://git@bayer.githost.io:data_architecture/bayer-roi-charts.git"
+    "roi-charts": "git+ssh://git@github.com:skygate/bayer-roi.git"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.3",

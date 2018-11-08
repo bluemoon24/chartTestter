@@ -6064,9 +6064,9 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
-"roi-charts@git+ssh://git@bayer.githost.io:data_architecture/bayer-roi-charts.git":
+"roi-charts@git+ssh://git@github.com:skygate/bayer-roi.git":
   version "0.0.29"
-  resolved "git+ssh://git@bayer.githost.io:data_architecture/bayer-roi-charts.git#935d77585d7cee29003c1f3820ff0cee638fbd82"
+  resolved "git+ssh://git@github.com:skygate/bayer-roi.git#935d77585d7cee29003c1f3820ff0cee638fbd82"
   dependencies:
     "@babel/polyfill" "^7.0.0"
     "@babel/runtime" "^7.1.2"
